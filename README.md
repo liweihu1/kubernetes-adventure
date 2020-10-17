@@ -2,13 +2,10 @@
 A repository to keep track of my experiences while trying to create my own kubernetes environment.
 
 # Cluster info
-```
-
 * 4x [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/)
   * Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
   * 2GB LPDDR4-3200 SDRAM
   * OS: 16GB Sandisk microSD
-```
 
 
 # References
@@ -37,3 +34,9 @@ https://docs.projectcalico.org/getting-started/kubernetes/self-managed-onprem/on
 https://docs.projectcalico.org/getting-started/kubernetes/self-managed-onprem/onpremises#install-calico-with-kubernetes-api-datastore-50-nodes-or-less
 
 https://docs.projectcalico.org/getting-started/kubernetes/installation/config-options
+
+https://metallb.universe.tf/usage/
+
+https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/#before-you-begin
+
+https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/#using-labels-effectively
