@@ -9,6 +9,8 @@ A repository to keep track of my experiences while trying to create my own kuber
 
 
 # References
+This is just a list of all the references I've used. These will be filtered later on for better readability.
+
 https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/
 
 https://kubernetes.io/docs/setup/
@@ -40,3 +42,7 @@ https://metallb.universe.tf/usage/
 https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/#before-you-begin
 
 https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/#using-labels-effectively
+
+https://www.digitalocean.com/community/tutorials/how-to-inspect-kubernetes-networking#:~:text=To%20find%20the%20cluster%20IP,and%20the%20pod's%20cluster%20IP.&text=The%20IP%20column%20will%20contain,IP%20address%20for%20each%20pod.
+
+https://www.digitalocean.com/community/tutorials/how-to-inspect-kubernetes-networking#:~:text=To%20find%20the%20cluster%20IP,and%20the%20pod's%20cluster%20IP.&text=The%20IP%20column%20will%20contain,IP%20address%20for%20each%20pod.
