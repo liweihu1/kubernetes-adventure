@@ -1,8 +1,17 @@
 # kubernetes-adventure
-A repository to keep track of my experiences while trying to create my own kubernetes environment
+A repository to keep track of my experiences while trying to create my own kubernetes environment.
+
+# Cluster info
+```
+
+* 4x [Raspberry Pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/)
+  * Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
+  * 2GB LPDDR4-3200 SDRAM
+  * OS: 16GB Sandisk microSD
+```
 
 
-## References
+# References
 https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/
 
 https://kubernetes.io/docs/setup/
