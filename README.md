@@ -46,3 +46,5 @@ https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/#us
 https://www.digitalocean.com/community/tutorials/how-to-inspect-kubernetes-networking#:~:text=To%20find%20the%20cluster%20IP,and%20the%20pod's%20cluster%20IP.&text=The%20IP%20column%20will%20contain,IP%20address%20for%20each%20pod.
 
 https://www.digitalocean.com/community/tutorials/how-to-inspect-kubernetes-networking#:~:text=To%20find%20the%20cluster%20IP,and%20the%20pod's%20cluster%20IP.&text=The%20IP%20column%20will%20contain,IP%20address%20for%20each%20pod.
+
+https://github.com/projectcalico/calico/blob/release-v3.15/_includes/non-helm-manifests/calicoctl.yaml
